@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+background-color: rgb(214, 165, 147);
+}
+.container .main-1{
+    width: 1000px;
+    height: 620px;
+    border: 2px solid rgb(18, 201, 48);
+    margin: 0px auto;
+}
+
+/******** Top title ********/
+
+.container .main-1 h1 {
+    text-align: center;
+    color: #25A1DD;
+    font-size: 40px;
+}
+.container .main-1 p {
+    text-align: justify;
+    margin: 10px 5px 0px 5px;
+    font-size: 23px;
+}
+
+/******** Top title 2nd part and images added ********/
+
+.container .main-1 h2 {
+    text-align: center;
+    color: #25A1DD;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.container .main-1 img {
+    width: 230px;
+    height: 150px;
+    margin: 25px 0px 0px 75px;
+}
+
+/******** Topic's chart ********/
+
+.container .main-1 .routine-1 h1{
+    color: #fbff00;
+    font-size: 27px;
+    margin: 0px 100% 5px 0px;
+}
+.container .main-1 .routine-1{
+   width: 150px;
+   height: 110px;
+   margin-left: 75px;
+   margin-top: 20px;
+   float: left;
+}
+.container .main-1 .routine-1 ul {
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+/******** Topic's chart 2nd part ********/
+
+.container .main-1 .routine-2 h1{
+    color: #fbff00;
+    font-size: 27px;
+    margin: 0px 100% 5px 0px;
+}
+.container .main-1 .routine-2{
+   width: 150px;
+   height: 110px;
+   margin-left: 157px;
+   margin-top: 20px;
+   float: left;
+}
+.container .main-1 .routine-2 ul {
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+/******** Topic's chart 2nd part ********/
+
+
+.container .main-1 .routine-3 h1{
+    color: #fbff00;
+    font-size: 27px;
+    margin: 0px 100% 5px 0px;
+}
+.container .main-1 .routine-3{
+   width: 150px;
+   height: 110px;
+   margin-left: 157px;
+   margin-top: 20px;
+   float: left;
+}
+.container .main-1 .routine-3 ul {
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+
