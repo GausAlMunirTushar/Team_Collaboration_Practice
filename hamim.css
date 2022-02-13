@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: dimgray;
+}
+
+.container{
+    height: 800px;
+    width: 1200px;
+    background-color: black;
+    margin: 0px auto;
+}
+
+/************--------------left---------------************/
+
+.container .left{
+    width: 6%;
+    height: 90%;
+    float: left;
+}
+
+
+
+.container .left .img-1{
+    width: 60%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.container .left img{
+    width: 100%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+/************--------------left_down---------------************/
+
+.container .left .down{
+    height: 80%;
+    width: 100%;
+    margin-top: 430px;
+}
+
+.container .left .down .img-2{
+    width: 40%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.container .left .down .img-2 img{
+    width: 100%;
+    border-radius: 30px;
+    margin: 0px auto;
+}
+
+
+
+.container .left .down .img-3{
+    width: 40%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.container .left .down .img-3 img{
+    width: 100%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.container .left .down .img-4{
+    width: 40%;
+    border-radius: 30px;
+    margin: 10px auto;
+}
+
+.container .left .down .img-4 img{
+    width: 100%;
+    border-radius: 30px;
+    margin: 10px auto;
+    background-color: white;
+}
+
+/******************--------right----------**************/
+
+.container .right{
+    width: 94%;
+    height: 85%;
+    float: left;
+    background: url("https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2ViJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* ************-----header---------******** */
+
+.container .right .header{
+    width: 100%;
+    height: 7%;
+    margin-top: 20px;
+}
+
+.container .right .header .header-left{
+    width: 20%;
+    height: 100%;
+    float: left;
+    text-align: right;
+}
+
+.container .right .header .header-left span{
+    width: 100%;
+    height: 100%;
+    font-size: 30px;
+}
+
+.container .right .header .header-right{
+    width: 78%;
+    height: 100%;
+    float: right;
+    text-align: right;
+}
+
+.container .right .header .header-right .header-right-left{
+    height: 100%;
+    width: 68%;
+    float: left;
+    text-align: right;
+    margin-top: 6px;
+    text-decoration-color: white;
+}
+
+.container .right .header .header-right .header-right-left a{
+    margin: 0px 10px 0px 0px;
+    padding: 4px;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: right;
+    color: white;
+}
+
+.container .right .header .header-right .img-5{
+    float: left;
+    height: 100%;
+    width: 10%;
+    border-radius: 40px;
+}
+
+.container .right .header .header-right .img-5 img{
+    width: 40%;
+    border-radius: 40px;
+}
+
+.container .right .right-body{
+    width: 100%;
+    height: 50%;
+    margin-top: 15%;
+}
+
+.container .right .right-body .p1{
+    width: 45%;
+    font-size: 50px;
+    margin-left: 5%;
+}
+
+.container .right .right-body .p2{
+    width: 45%;
+    margin-left: 5%;
+}
+
+.container .right .right-body input{
+    width: 13%;
+    height: 10%;
+    background-color: #4678BF;
+    margin: 10px 10px;
+    border-radius: 30px;
+    color: white;
+    font-size: 12px;
+}
+
+.container .right .right-body #b1{
+    margin-left: 5%;
+}
