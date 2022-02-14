@@ -135,7 +135,7 @@ body{
 .container .right .header .header-right .header-right-left a{
     margin: 0px 10px 0px 0px;
     padding: 4px;
-    font-size: 18px;
+    font-size: 17px;
     text-decoration: none;
     text-align: right;
     color: white;
@@ -181,6 +181,7 @@ body{
     background-color: #4678BF;
     margin: 10px 10px;
     border-radius: 30px;
+    border: none;
     color: white;
     font-size: 13px;
 }
