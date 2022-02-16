@@ -141,6 +141,10 @@ body{
     color: white;
 }
 
+.container .right .header .header-right .header-right-left a:hover{
+    color: antiquewhite;
+}
+
 .container .right .header .header-right .img-5{
     float: left;
     height: 100%;
@@ -195,3 +199,10 @@ body{
     font-weight: bold;
 }
 
+.container .right .right-body input:hover{
+    background-color: black;
+}
+
+.container .right .right-body #b2:hover{
+    background-color: black;
+}
